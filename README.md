@@ -196,16 +196,6 @@ AI-powered Urban Intelligence Platform
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=preetham-sgowda&theme=algolia&margin-w=12&no-frame=true"/>
-
-</p>
-
----
-
 # 📚 Current Focus
 
 - 🤖 AI Agents
