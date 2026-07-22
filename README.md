@@ -1,29 +1,14 @@
+<img width="1280" height="545" alt="WhatsApp Image 2026-07-22 at 10 15 33 PM" src="https://github.com/user-attachments/assets/766d9915-0981-4913-9ec6-0a1aa15a4d1e" />
+
 <h1 align="center">
   Hi 👋, I'm Preetham S Gowda
 </h1>
 
 <h3 align="center">
-Full Stack Developer • AI/ML Engineer • Data Engineer • Open Source Enthusiast
+Full Stack Developer • Data Science and Analytics • Data Engineer • Open Source Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Engineer;Data+Engineering+%26+Analytics;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
-</p>
 
-<p align="center">
-<a href="https://github.com/preetham-sgowda">
-<img src="https://komarev.com/ghpvc/?username=preetham-sgowda&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/preetham-sgowda?tab=followers">
-<img src="https://img.shields.io/github/followers/preetham-sgowda?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/preetham-sgowda">
-<img src="https://img.shields.io/github/stars/preetham-sgowda?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
